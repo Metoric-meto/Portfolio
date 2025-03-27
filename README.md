@@ -1,5 +1,6 @@
 # Portfolio Website
-https://metoric-meto.github.io/Portfolio/
+
+* [Website](https://metoric-meto.github.io/Portfolio/)
 
 This is the source code for my personal portfolio website, showcasing my skills, projects, and experience.
 
