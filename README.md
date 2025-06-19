@@ -16,5 +16,4 @@ This is the source code for my personal portfolio website, showcasing my skills,
 - **Frontend**: HTML, CSS, JavaScript ,Bootstrap
 - **Hosting**: GitHub Pages
 
-om 
 - **LinkedIn**: www.linkedin.com/in/himanshupatil01
